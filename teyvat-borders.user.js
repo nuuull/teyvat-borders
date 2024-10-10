@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        Teyvat Borders
 // @namespace   https://github.com/nuuull/teyvat-borders
-// @match       https://act.hoyolab.com/ys/app/interactive-map/*
+// @match       https://act.hoyolab.com/ys/app/interactive-map*
 // @grant       none
-// @version     1.0.1
+// @version     1.0.2
 // @author      nuuull, Thiophen
 // @description 9/28/2024, 3:31:27 PM
 //
