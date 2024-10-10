@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        Teyvat Borders
 // @namespace   https://github.com/nuuull/teyvat-borders
-// @match       https://act.hoyolab.com/ys/app/interactive-map/index.html*
+// @match       https://act.hoyolab.com/ys/app/interactive-map/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      nuuull, Thiophen
 // @description 9/28/2024, 3:31:27 PM
 //
@@ -32,7 +32,7 @@ const LIMITS = {
 
 const URLS = [
   "https://act-webstatic.hoyoverse.com/map_manage/map/2/",
-  "https://raw.githubusercontent.com/nuuull/tyvt/refs/heads/main/2/"
+  "https://raw.githubusercontent.com/nuuull/teyvat-borders/refs/heads/main/2/"
 ]
 
 const observer = new MutationObserver(() => {
